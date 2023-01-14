@@ -8,9 +8,9 @@ https://medal.tv/games/gta-v/clips/nV5JsTrdtir6V/d1337IGtTa5S?invite=cr-MSxBbEEs
 # Adding
 ["gift"]                          = {["name"] = "gift",                             ["label"] = "Gift Box",                 ["weight"] = 0,       ["type"] = "item",         ["image"] = "gift.png",                 ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Welcome to the city! Here's a gift to start you off!"},
 
-paste the code from gift.lua into qb-smallresources/client/consumables.lua
+paste the code from client.lua into qb-smallresources/client/consumables.lua
 
-paste the code from item.lua into qb-smallresources/server/consumables.lua
+paste the code from server.lua into qb-smallresources/server/consumables.lua
 
 paste the image into qb-inventory/html/images
 
