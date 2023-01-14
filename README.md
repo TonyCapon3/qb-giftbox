@@ -1,5 +1,6 @@
 # Gift-Box-For-qbcore
-Just a snippet to put into smallresources if you want first time players to have a little welcoming gift.
+If using as a snippet to save resource space (which I recommend you do via qb-smallresources) follow the instructions in each file
+otherwise it works just fine as a resource.
 
 # Preview
 https://medal.tv/games/gta-v/clips/nV5JsTrdtir6V/d1337IGtTa5S?invite=cr-MSxBbEEsNDIxNDM3MTcs
