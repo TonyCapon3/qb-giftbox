@@ -14,4 +14,3 @@ paste the code from server.lua into qb-smallresources/server/consumables.lua
 
 paste the image into qb-inventory/html/images
 
-Inside of qb-core/shared/main.lua paste ['gift'] = { amount = 1, item = 'gift' },
